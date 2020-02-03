@@ -9,7 +9,12 @@ Internet Information Services -> World Wide Web Services -> Application Developm
 
 Install Web Platform Installer
 https://www.microsoft.com/web/downloads/platform.aspx
-
+Install these with the installer:
+1) URL rewrite
+2) IIS: .net extensibility 4.5
+3) IIS: Management Service
+4) IIS: WAS .Net Environment
+5) IIS: Windows Authentication
 
 -- To Azure and beyond lol
 https://www.youtube.com/watch?v=PPaqVyBkwMk
